@@ -1,0 +1,22 @@
+# 認証情報・秘密情報（絶対にGitHubに上げない）
+.env
+credentials.json
+token.json
+
+# Python仮想環境
+.venv/
+venv/
+env/
+
+# Pythonキャッシュ
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ログファイル
+logs/
+*.log
+
+# OS生成ファイル
+.DS_Store
+Thumbs.db
