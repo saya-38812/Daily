@@ -18,6 +18,7 @@ from zoneinfo import ZoneInfo
 JST = ZoneInfo("Asia/Tokyo")
 
 
+
 def get_all_tasks(tasks_service, include_completed: bool = False) -> dict[str, list[dict]]:
     """
     すべてのタスクリストからタスクを取得する。

@@ -19,6 +19,7 @@ from dotenv import load_dotenv
 from google_auth import build_services
 
 
+
 def main():
     """スプレッドシートを作成してIDを表示する"""
 

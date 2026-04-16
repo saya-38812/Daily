@@ -9,6 +9,7 @@ Google API への OAuth 2.0 認証を担当するモジュール。
 3. 次回以降: token.json を読み込んで自動ログイン（期限切れなら自動更新）
 """
 
+
 import os
 from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials

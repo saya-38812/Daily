@@ -9,6 +9,7 @@ Claude API を使って、メールからタスクと期限を自動抽出し、
 3. JSON を解析して Google Tasks にタスクを作成する
 """
 
+
 import json
 import os
 import re

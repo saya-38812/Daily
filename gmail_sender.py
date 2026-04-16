@@ -14,6 +14,7 @@ JST = ZoneInfo("Asia/Tokyo")
 WEEKDAYS = ["月", "火", "水", "木", "金", "土", "日"]
 
 
+
 def send_coaching_report(
     gmail_service,
     report_text: str,

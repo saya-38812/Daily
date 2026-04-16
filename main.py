@@ -10,6 +10,7 @@ main.py
 4. Claude API で予定ごとの準備アドバイスを生成
 5. Gmail でメールを送信
 
+
 【実行方法】
     python main.py                # 今日基準で実行
     python main.py 2026-04-10    # 指定日を「今日」として実行

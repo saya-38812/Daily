@@ -6,6 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ライフコーチ兼業務改善コンサルタントBot。Googleカレンダーの予定とGoogleスプレッドシートの振り返りログを入力として、構造化されたコーチングレポートをGoogle Docsに出力し、サマリーをGoogle Sheetsに追記する。
 
+
 ## 技術スタック
 
 - 言語: Python

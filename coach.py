@@ -107,3 +107,4 @@ def generate_preparation_advice(
         messages=[{"role": "user", "content": user_prompt}],
     )
     return message.content[0].text
+

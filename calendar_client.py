@@ -209,3 +209,4 @@ def _format_dt(dt_str: str, show_date: bool = False) -> str:
             return "終日"
     except ValueError:
         return dt_str
+

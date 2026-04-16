@@ -15,6 +15,7 @@ from zoneinfo import ZoneInfo
 JST = ZoneInfo("Asia/Tokyo")
 
 
+
 def get_reflection_logs(sheets_service, spreadsheet_id: str, sheet_name: str = "振り返りログ", max_rows: int = 30) -> list[dict]:
     """
     スプレッドシートから振り返りログを読み込む。
